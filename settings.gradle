@@ -1,0 +1,4 @@
+rootProject.name = 'books'
+include 'head-first-design-pattern'
+include 'seriously-good-software'
+
