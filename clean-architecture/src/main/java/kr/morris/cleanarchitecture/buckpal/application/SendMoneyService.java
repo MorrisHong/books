@@ -1,4 +1,6 @@
 package kr.morris.cleanarchitecture.buckpal.application;
 
-public class SendMoneyService {
+import kr.morris.cleanarchitecture.buckpal.application.port.in.SendMoneyUseCase;
+
+public class SendMoneyService implements SendMoneyUseCase {
 }
