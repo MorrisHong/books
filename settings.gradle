@@ -2,5 +2,3 @@ rootProject.name = 'books'
 include 'head-first-design-pattern'
 include 'seriously-good-software'
 include 'java-refactoring-for-beginner'
-include 'get-your-hands-dirty-on-clean-architecture'
-
