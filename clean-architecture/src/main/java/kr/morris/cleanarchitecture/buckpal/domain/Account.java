@@ -18,7 +18,7 @@ public class Account {
         return false;
     }
 
-    static class AccountId {
+    public static class AccountId {
         private Long id;
     }
 }
